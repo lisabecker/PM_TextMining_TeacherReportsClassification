@@ -12,3 +12,5 @@ exploited, amongst others Naive Bayes, Linear Support Vector Machines, Logistic 
 Different features were compared to find the optimal combination for classification. The Random Forest Classifier with the 
 positioning of of sentences in a given document proved to be the best approach with a classification accuracy of 76,6%
 (compared to 72% of inner-annotator accuracy).
+
+The [paper "Utilizing Natural Language Processing to Analyze Preservice Science Teachers' Reflections of Their Teaching Enactments"](https://convention2.allacademic.com/one/aera/aera20/index.php?program_focus=view_paper&selected_paper_id=1577876&cmd=online_program_direct_link&sub_action=online_program "Link to publication") got published in April 2020. 
